@@ -1,2 +1,2 @@
 # coderprabhu
-This repository is to holds code and configurations for http://coderprabhu.com
+This repository holds code and configurations for http://coderprabhu.com
