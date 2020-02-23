@@ -9,8 +9,8 @@ docker run --rm -p 8080:8080 gcr.io/kubegcp-256806/coderprabhu-ui:v1
 docker push gcr.io/kubegcp-256806/coderprabhu-ui:v1  
 kubectl apply -f manifests/coderprabhu-ui-deployment.yaml  
 gcloud compute addresses create coderprabhu-ip --global  
-kubectl apply -f manifests/coderprabhu-ingress-static-ip.yaml```  
-
+kubectl apply -f manifests/coderprabhu-ingress-static-ip.yaml  
+```
 Read commands:   
 ```gcloud container clusters describe coderprabhu-cluster   
 kubectl get deployment coderprabhu-ui-web  
