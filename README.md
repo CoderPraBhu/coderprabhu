@@ -1,4 +1,3 @@
-
 This repository holds code and configurations for http://coderprabhu.com
 
 Git Repo: https://github.com/CoderPraBhu/coderprabhu
@@ -22,4 +21,5 @@ curl http://coderprabhu.com
 	Hello, Geeks!  
 	By: CoderPraBhu  
 	Version: 1.0.0  
-	Hostname: coderprabhu-ui-web-558584c55c-84t89```   
+	Hostname: coderprabhu-ui-web-558584c55c-84t89
+```   
