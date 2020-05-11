@@ -1,6 +1,4 @@
-This repository holds code and configurations for http://coderprabhu.com
-
-Git Repo: https://github.com/CoderPraBhu/coderprabhu
+Sample project to get started with Docker and Kubernetes 
 
 Udpate commands:  
 ```gcloud container clusters create coderprabhu-cluster  
